@@ -1,0 +1,9 @@
+POST http://localhost:5555/books/
+Content-Type: application/json
+
+
+{
+    "title": "sssss",
+    "author": "tgyuhjn",
+    "publishYear": "98765"
+}
